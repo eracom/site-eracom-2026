@@ -4,9 +4,13 @@ Renouvellement du site web 2025-26.
 
 ## Projet Figma
 
-Un projet Figma avec des documents produits en 2024 par l'encadrante Liza O : https://www.figma.com/files/team/416530823163540535/project/467403876/Site-Eracom-2025?fuid=291493996178881916
+Un projet Figma avec des documents produits en 2024 par l'encadrante Liza O :  
+Team: Eracom  
+[Lien Figma](https://www.figma.com/files/team/416530823163540535/project/467403876/Site-Eracom-2025?fuid=291493996178881916) 
 
-La version modifiée par les élèves ID421 durant novembre-décembre 2025: https://www.figma.com/files/team/1143292267561143638/project/467729586/Site-Eracom-2025?fuid=291493996178881916 
+La version modifiée par les élèves ID421 durant novembre-décembre 2025:  
+Team: Eracom ID421  
+[Lien Figma](https://www.figma.com/files/team/1143292267561143638/project/467729586/Site-Eracom-2025?fuid=291493996178881916 )
 
 ## Version de développement
 
