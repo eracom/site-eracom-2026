@@ -1,2 +1,17 @@
 # site-eracom-2025
-Renouvellement du site web 2025-26
+
+Renouvellement du site web 2025-26.
+
+## Projet Figma
+
+Un projet Figma avec des documents produits en 2024 par l'encadrante Liza O : https://www.figma.com/files/team/416530823163540535/project/467403876/Site-Eracom-2025?fuid=291493996178881916
+
+La version modifiée par les élèves ID421 durant novembre-décembre 2025: https://www.figma.com/files/team/1143292267561143638/project/467729586/Site-Eracom-2025?fuid=291493996178881916 
+
+## Version de développement
+
+Une version de développement est installée ici : https://dev25.eracom.ch/
+
+## Tâches, tickets
+
+Voir l'onglet [Issues](https://github.com/eracom/site-eracom-2025/issues) ci-dessus.
