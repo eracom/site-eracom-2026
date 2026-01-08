@@ -4,6 +4,10 @@ Renouvellement du site web 2025-26.
 
 ## Projet Figma
 
+Team Figma dédiée pour le développement du site Eracom 2026  
+Team: Site Eracom 2026  
+[Lien Figma](https://www.figma.com/files/team/1591074338941558938/all-projects)
+
 La version de travail des élèves ID421 durant novembre-décembre 2025:  
 Team: Eracom ID421  
 [Lien Figma](https://www.figma.com/files/team/1143292267561143638/project/467729586/Site-Eracom-2025?fuid=291493996178881916 )
@@ -16,8 +20,8 @@ Team: Eracom
 ## Version de développement
 
 Une version de développement est installée ici : https://dev25.eracom.ch/  
-ID421  
-Eracom-Lausanne-1004  
+Login : ID421  
+Password : Eracom-Lausanne-1004  
 
 ## Tâches, tickets
 
