@@ -1,4 +1,4 @@
-# site-eracom-2025
+# site-eracom-2026
 
 Renouvellement du site web 2025-26.
 
