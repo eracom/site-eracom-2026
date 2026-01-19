@@ -15,9 +15,7 @@ Team: Eracom
 
 ## Version de développement
 
-Une version de développement est installée ici : https://dev25.eracom.ch/  
-Login : ID421  
-Password : Eracom-Lausanne-1004  
+Une version de développement est installée ici : https://dev25.eracom.ch/    
 
 ## Tâches, tickets
 
