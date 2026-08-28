@@ -1,8 +1,13 @@
-# site-eracom-2026
+# Espace de travail site Eracom
 
-Renouvellement du site web 2025-26.
+Ce dépôt Figma est dédié au renouvellement du site web Eracom depuis 2025-26. 
+Ce dépôt sert à l'organisation et à la gestion de projet, en utilisant les [Issues](https://github.com/eracom/site-eracom-workspace/issues). 
 
 ## Projet Figma
+
+Team Figma dédiée pour le développement du site Eracom 2027  
+Team: Site Eracom 2027  
+[Lien Figma](https://www.figma.com/files/folder/645897348)
 
 Team Figma dédiée pour le développement du site Eracom 2026  
 Team: Site Eracom 2026  
@@ -19,4 +24,4 @@ Une version de développement est installée ici : https://dev25.eracom.ch/
 
 ## Tâches, tickets
 
-Voir l'onglet [Issues](https://github.com/eracom/site-eracom-2025/issues) ci-dessus.
+Voir l'onglet [Issues](https://github.com/eracom/site-eracom-workspace/issues) ci-dessus.
